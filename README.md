@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @wisnu-UNJ
+- 👋 Hi, I’m @wisnu
 - 👀 I’m interested in devops engginer
 - 🌱 I’m currently learning html, css and js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me dm instagram pemuda_hijrah_16
+- 😄 Pronouns: indonesia
 
 <!---
 wisnu-UNJ/wisnu-UNJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
